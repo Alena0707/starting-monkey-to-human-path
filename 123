@@ -1,0 +1,13 @@
+using System;
+namespace Григорьева_202
+{
+   class Program
+    {
+      static void Main(string[] args)
+       {
+         Console.WriteLine("Григорьева");
+         Console.WriteLine("202 группа");
+         Console.ReadLine();
+       }
+     }
+ }    
